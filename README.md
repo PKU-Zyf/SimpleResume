@@ -4,6 +4,8 @@
 
 点击[此处](https://www.overleaf.com/latex/templates/simpleresume/kppvbxxqmywg)，前往Overleaf在线使用本模板。 / Click [here](https://www.overleaf.com/latex/templates/simpleresume/kppvbxxqmywg) to compile online with Overleaf.
 
+点击[此处](https://github.com/pku-zyf/SimpleResume)，前往本模板的GitHub主页。 / Click [here](https://github.com/pku-zyf/SimpleResume) to go to the GitHub page of the template.
+
 如有任何建议请发送邮件至[zyfcode@outlook.com](mailto:zyfcode@outlook.com)。 / If you have any suggestions, please send email to [zyfcode@outlook.com](mailto:zyfcode@outlook.com).
 
 ## 使用提示 Tips
